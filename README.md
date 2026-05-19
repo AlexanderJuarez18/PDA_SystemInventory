@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDA_SystemInventory
 
 Aplicación React + Vite para gestión de inventario.
@@ -42,3 +43,6 @@ git remote add origin git@github.com:AlexanderJuarez18/PDA_SystemInventory.git
 
 - Si no tienes Git instalado, instala Git desde https://git-scm.com/downloads.
 - El correo `alexander@softbank.mx` puede usarse en tu configuración de Git, pero el repositorio se identifica con tu usuario de GitHub.
+=======
+# PDA_SystemInventory
+>>>>>>> 03cb451738cd35ca3a3bdd85faa325f1e27558ec
