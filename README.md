@@ -1,48 +1,64 @@
-<<<<<<< HEAD
-# PDA_SystemInventory
+# PDA System Inventory
 
-Aplicación React + Vite para gestión de inventario.
+Sistema móvil de inventario y logística desarrollado para dispositivos PDA industriales con lector de código de barras integrado.
 
-## Cómo subir este proyecto a GitHub
+## Descripción
 
-1. Crea el repositorio en GitHub con tu usuario `AlexanderJuarez18` y nombre `PDA_SystemInventory`.
-2. En tu terminal, ve a la carpeta del proyecto:
+PDA System Inventory es una aplicación diseñada para optimizar operaciones de almacén, inventario y logística mediante dispositivos móviles PDA Android.  
+El sistema permite realizar movimientos de inventario en tiempo real utilizando escaneo de códigos de barras y conexión directa con la base de datos empresarial.
+
+---
+
+# Características principales
+
+- Inicio de sesión con roles y permisos
+- Escaneo de códigos de barras
+- Gestión de órdenes de entrada
+- Gestión de órdenes de salida
+- Recepciones de material
+- Registro de merma
+- Solicitudes de material
+- Navegación rápida por módulos
+- Validación automática de productos
+- Sincronización con base de datos
+- Interfaz optimizada para PDA industriales
+- Operación en tiempo real
+
+---
+
+# Tecnologías utilizadas
+
+## Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## Mobile
+- Capacitor
+- Android SDK
+
+## Backend
+- Node.js
+- Express
+
+## Database
+- PostgreSQL / MySQL
+
+---
+
+# Estructura del proyecto
 
 ```bash
-cd "c:\Users\Ander\Desktop\PDA_System"
-```
-
-3. Comprueba el estado de Git:
-
-```bash
-git status
-```
-
-4. Si aún no hay commits, agrega y haz commit:
-
-```bash
-git add .
-git commit -m "Initial commit"
-```
-
-5. Agrega el remoto de GitHub y sube:
-
-```bash
-git remote add origin https://github.com/AlexanderJuarez18/PDA_SystemInventory.git
-git branch -M main
-git push -u origin main
-```
-
-6. Si prefieres SSH, usa en su lugar:
-
-```bash
-git remote add origin git@github.com:AlexanderJuarez18/PDA_SystemInventory.git
-```
-
-## Notas
-
-- Si no tienes Git instalado, instala Git desde https://git-scm.com/downloads.
-- El correo `alexander@softbank.mx` puede usarse en tu configuración de Git, pero el repositorio se identifica con tu usuario de GitHub.
-=======
-# PDA_SystemInventory
->>>>>>> 03cb451738cd35ca3a3bdd85faa325f1e27558ec
+PDA_System/
+│
+├── src/
+├── public/
+├── components/
+├── pages/
+├── services/
+├── hooks/
+├── assets/
+├── android/
+├── package.json
+└── README.md
