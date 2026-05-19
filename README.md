@@ -51,6 +51,27 @@ El sistema permite realizar movimientos de inventario en tiempo real utilizando 
 
 ```bash
 PDA_System/
+
+Roadmap
+Integración con ERP
+Modo offline
+RFID Support
+Integración con drones de inventario
+Dashboard administrativo
+Reportes PDF automáticos
+Monitoreo en tiempo real
+Autor
+
+Desarrollado por Alexander J. Costilla
+Licenciado en Tecnologías de la Información
+
+Licencia
+
+Copyright © 2026 Alexander J. Costilla.
+Todos los derechos reservados.
+
+Este software y su código fuente son propiedad intelectual de Alexander J. Costilla.
+Queda prohibida la reproducción, distribución, modificación o uso comercial sin autorización expresa del autor.
 │
 ├── src/
 ├── public/
