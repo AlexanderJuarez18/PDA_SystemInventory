@@ -48,10 +48,6 @@ El sistema permite realizar movimientos de inventario en tiempo real utilizando 
 ---
 
 # Estructura del proyecto
-
-```bash
-PDA_System/
-
 Roadmap
 Integración con ERP
 Modo offline
@@ -72,6 +68,8 @@ Todos los derechos reservados.
 
 Este software y su código fuente son propiedad intelectual de Alexander J. Costilla.
 Queda prohibida la reproducción, distribución, modificación o uso comercial sin autorización expresa del autor.
+```bash
+PDA_System/
 │
 ├── src/
 ├── public/
@@ -83,3 +81,5 @@ Queda prohibida la reproducción, distribución, modificación o uso comercial s
 ├── android/
 ├── package.json
 └── README.md
+
+
