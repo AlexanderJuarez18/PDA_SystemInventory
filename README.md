@@ -68,18 +68,4 @@ Todos los derechos reservados.
 
 Este software y su código fuente son propiedad intelectual de Alexander J. Costilla.
 Queda prohibida la reproducción, distribución, modificación o uso comercial sin autorización expresa del autor.
-```bash
-PDA_System/
-│
-├── src/
-├── public/
-├── components/
-├── pages/
-├── services/
-├── hooks/
-├── assets/
-├── android/
-├── package.json
-└── README.md
-
 
