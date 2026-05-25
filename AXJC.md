@@ -1,4 +1,4 @@
-# Industrial Warehouse Pro - Mobile Application
+# Software Bank - Mobile Application
 
 Aplicación móvil empresarial de alto rendimiento diseñada para dispositivos PDA industriales Android (Honeywell, Zebra, Chainway), optimizada para operaciones de almacén, logística e inventario en tiempo real.
 
