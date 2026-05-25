@@ -59,4 +59,4 @@ Aplicación móvil empresarial de alto rendimiento diseñada para dispositivos P
 4. **Eficiencia**: Minimizar los pasos para completar tareas críticas (escaneo, confirmación).
 
 ---
-Desarrollado para **Industrial Solutions Group** v1.0.0
+Desarrollado para **A|XJC** v1.0.0
